@@ -1,5 +1,5 @@
 
-# Solana Multi Bundler
+# Raydium-LP-Bundler
 
 Welcome to the Solana Multi Bundler project! This README will guide you through the setup and usage of the project.
 
@@ -8,7 +8,7 @@ The Solana Multi Bundler allows users to bundle multiple transactions on the Sol
 
 ## 📝 Prerequisites
 - **Linux Ubuntu VPS:** You need to purchase a Linux Ubuntu VPS. Contact support to buy one.
-- **RPC Endpoint:** Rent an RPC endpoint. Contact support for assistance.
+- **RPC Endpoint:** Rent an RPC endpoint. Contact [support](https://t.me/ZorroScripts) for assistance.
 - **Solana Wallets:** Create two wallets:
   - Deployer Wallet (for creating the pool)
   - Fee Payer Wallet (for paying fees and snipe)
