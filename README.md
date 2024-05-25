@@ -8,7 +8,7 @@ The Solana Multi Bundler allows users to bundle multiple transactions on the Sol
 
 ## 📝 Prerequisites
 - **Linux Ubuntu VPS:** You need to purchase a Linux Ubuntu VPS. Contact support to buy one.
-- **RPC Endpoint:** Rent an RPC endpoint. Contact [support](https://t.me/ZorroScripts) for assistance.
+- **RPC Endpoint:** Rent an RPC endpoint. Contact [support](https://t.me/zorro0x) for assistance.
 - **Solana Wallets:** Create two wallets:
   - Deployer Wallet (for creating the pool)
   - Fee Payer Wallet (for paying fees and snipe)
@@ -69,6 +69,6 @@ If you don't burn your LP, it will be removed automatically.
 For any issues or assistance, contact support. They can help you with the entire setup process.
 
 ## 📞 Contact
-- **Telegram:** [@support_telegram](https://t.me/ZorroScripts)
+- **Telegram:** [@support_telegram](https://t.me/zorro0x)
 
 Enjoy bundling with Solana Multi Bundler! 🚀
